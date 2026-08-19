@@ -1,0 +1,11 @@
+[Telegram]
+# Ganti dengan token bot Anda dari @BotFather di Telegram
+# Contoh: BotToken = 1234567890:ABCdefGHIjklMNOpqrSTUvwxYZ
+BotToken = YOUR_TELEGRAM_BOT_TOKEN_HERE
+
+[Access]
+# Daftar Telegram User ID yang memiliki akses penuh / level Admin.
+# Pisahkan dengan tanda koma jika ada lebih dari 1 ID.
+# Dapatkan Telegram User ID Anda via bot seperti @userinfobot di Telegram.
+# Contoh: AllowedUsers = 123456789,987654321
+AllowedUsers = 123456789
